@@ -1,4 +1,4 @@
-module getdomains
+module github.com/Chan9390/hacks/getdomains
 
 go 1.17
 
